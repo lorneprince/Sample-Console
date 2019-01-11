@@ -10,6 +10,8 @@ namespace SampleConsoleApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Using GIT with VS2017 is petty cool!");
+            Console.ReadLine();
         }
     }
 }
